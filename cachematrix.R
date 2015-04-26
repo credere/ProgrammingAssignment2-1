@@ -1,4 +1,4 @@
-## Creates a pair of functions that allows for avoiding repeated calculating the inverse of a matrix 
+## Creates a pair of functions that allows for avoiding repeated calculations of the inverse of a matrix 
 ## that remains constant
 
 ## This function creates a special "matrix" object that can cache its inverse.
